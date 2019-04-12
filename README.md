@@ -18,3 +18,6 @@ To get the path of the installed Python, open anaconda prompt, and type where py
 
 ## .py files
 * downloadWindData_KaiTak.py (use together with run_WindDate_KaiTak.bat)
+
+## Resources
+* [Wind data archieve](http://www.weather.org.hk/data/archive/1min/)
