@@ -1,0 +1,1 @@
+C:\Users\CHA82870\AppData\Local\Continuum\anaconda3\python.exe "C:\Users\CHA82870\OneDrive - Mott MacDonald\Documents\constructionWaste\constructionWasteDownloadMott.py %*"
